@@ -1,0 +1,46 @@
+.div_f {
+    border: 0px solid red;
+    float: left;
+    height: 400px;
+    width: 380px
+}
+
+.div_s {
+    border: 0px solid red;
+    background-color: #747070;
+    height: 360px;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.div_font {
+    text-align: center;
+    color: #9acfea;
+    font-size: 40px;
+    height: 20%;
+    margin-left: 0%;
+    margin-top: 35%
+}
+
+a {
+    text-decoration: none;
+    color: #9acfea;
+}
+/*正常的未被访问过的链接*/
+a:link {
+    text-decoration: none;
+}
+/*已经访问过的链接*/
+a:visited {
+    text-decoration: none;
+}
+/*鼠标划过(停留)的链接*/
+a:hover {
+    text-decoration: none;
+}
+/* 正在点击的链接*/
+a:active {
+    text-decoration: none;
+}
