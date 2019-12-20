@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f90bfa40-3177-4495-a4ff-0754c37177e8" name="Default Changelist" comment="" />
+    <list default="true" id="f90bfa40-3177-4495-a4ff-0754c37177e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/templates/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +16,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Us70sVekGuI1K7r8iAJucMlW26" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,20 +31,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app01" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\o_web\templates" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\o_web\app01" />
       <recent name="E:\project\o_web\static" />
       <recent name="E:\project\o_web\static\js" />
       <recent name="E:\project\o_web\static\css" />
       <recent name="E:\project\o_web\static\pic" />
-      <recent name="E:\project\o_web\templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\project\o_web\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,11 +96,31 @@
       <option name="presentableId" value="Default" />
       <updated>1576133228009</updated>
       <workItem from="1576133232696" duration="15573000" />
+      <workItem from="1576822062484" duration="8901000" />
     </task>
+    <task id="LOCAL-00001" summary="0">
+      <created>1576831339888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576831339888</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0">
+      <created>1576831786577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576831786577</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1576830870295">
@@ -111,22 +135,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576822146938" />
-    <state x="560" y="107" key="CommitChangelistDialog2" timestamp="1576831740969">
+    <state x="560" y="107" key="CommitChangelistDialog2" timestamp="1576831785655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576831740969" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576831225674">
+    <state x="560" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576831785655" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576832106114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576831225674" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576832106114" />
     <state x="781" y="433" width="382" height="174" key="Github.CreateGistDialog" timestamp="1576830864109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="433" width="382" height="174" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576830864109" />
-    <state x="835" y="410" width="273" height="219" key="Github.ShareDialog" timestamp="1576831114446">
+    <state x="835" y="410" width="273" height="219" key="Github.ShareDialog" timestamp="1576831962267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="835" y="410" width="273" height="219" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576831114446" />
+    <state x="835" y="410" width="273" height="219" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576831962267" />
     <state width="938" height="157" key="GridCell.Tab.0.bottom" timestamp="1576831138526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -143,13 +167,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576831138526" />
-    <state x="316" y="221" key="SettingsEditor" timestamp="1576831234776">
+    <state x="316" y="221" key="SettingsEditor" timestamp="1576831945136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="316" y="221" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576831234776" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1576831351764">
+    <state x="316" y="221" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576831945136" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1576831829644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576831351764" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576831829644" />
+    <state x="703" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1576832088357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="254" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576832088357" />
   </component>
 </project>
